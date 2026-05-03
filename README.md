@@ -35,15 +35,15 @@ Graphique de contributions
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jujucram&theme=tokyo-night&hide_border=true"/>
 </p>
 
-Projets principaux
+Projets principaux:
 
-Antivirus en C
+ForgeAV 
 
 Moteur antivirus modulaire avec analyse de fichiers, détection par signatures et surveillance système.
 
-Bot intelligent
+Bot WhatsApp 
 
-Architecture hybride combinant C (performance) et JavaScript/Python (communication).
+automatisation des actions sur WhatsApp (messages, gestion de groupes, commandes, etc.).
 
 WAKA JOB
 
@@ -62,7 +62,7 @@ Objectifs
 
 Philosophie
 
-Comprendre les systèmes en profondeur, optimiser les performances et produire un code propre et maintenable.
+"Comprendre les systèmes en profondeur, optimiser les performances et produire un code propre et maintenable." Brandon
 
 
 
