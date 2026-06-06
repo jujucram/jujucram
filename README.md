@@ -1,7 +1,7 @@
 <!-- Bannière animée --><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Brandon%20Moukam&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p><h2 align="center">Développeur Logiciel | Systèmes & Backend</h2><p align="center">
-  Étudiant en informatique spécialisé en programmation bas niveau, performance et conception de systèmes logiciels.
+</p><h2 align="center">Développeur Logiciel | Systèmes & Web</h2><p align="center">
+  Étudiant en informatique spécialisé en programmation bas niveau, Développement Web, performance et conception de systèmes logiciels.
 </p>
 
 Technologies
@@ -13,11 +13,12 @@ Technologies
 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jujucram&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jujucram&theme=tokyonight&hide_border=true"/>
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jujucram&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jujucram&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jujucram&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=jujucram&theme=tokyonight&hide_border=true" />
 </p>
 
 Activité avancée
@@ -55,6 +56,7 @@ Objectifs
 
 - Maîtriser la programmation système
 - Développer des logiciels performants utilisés en production
+- S’expertiser en Développement Web
 - Contribuer à des projets open source techniques
 - Devenir ingénieur logiciel spécialisé bas niveau
 
@@ -62,7 +64,7 @@ Objectifs
 
 Philosophie
 
-"Comprendre les systèmes en profondeur, optimiser les performances et produire un code propre et maintenable." Brandon
+"Comprendre les systèmes en profondeur, optimiser les performances et produire un code propre et maintenable." by Brandon
 
 
 
