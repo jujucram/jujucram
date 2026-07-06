@@ -1,7 +1,7 @@
 <!-- Bannière animée --><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Brandon%20Moukam&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p><h2 align="center">Développeur Logiciel | Systèmes & Web</h2><p align="center">
-  Étudiant en informatique spécialisé en programmation bas niveau, Développement Web, performance et conception de systèmes logiciels.
+  Étudiant en informatique spécialisé en programmation bas niveau, Développement Web, performance et conception de systèmes logiciels. Actuellement Développeur Logiciel chez Data Work Agency.
 </p>
 
 Technologies
@@ -50,7 +50,9 @@ WAKA JOB
 
 Application mobile de mise en relation locale avec système de commission et déploiement réel.
 
+Data Work Store
 
+Plateforme sécurisée de distribution d’applications Premium/Mod pour systèmes Android,ios,windows 
 
 Objectifs
 
@@ -82,6 +84,5 @@ Contact
   </a>
 </p>
 
-<!-- Footer animé --><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
 </p>
