@@ -27,14 +27,8 @@ Activité avancée
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jujucram&theme=tokyonight"/>
 </p><p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jujucram&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jujucram&theme=tokyonight"/>
 </p>
 
-Graphique de contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jujucram&theme=tokyo-night&hide_border=true"/>
-</p>
 
 Projets principaux:
 
