@@ -1,5 +1,4 @@
-<!-- Bannière animée --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Brandon%20Moukam&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Brandon%20Moukam&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p><h2 align="center">Développeur Logiciel | Systèmes & Web</h2><p align="center">
   Étudiant en informatique spécialisé en programmation bas niveau, Développement Web, performance et conception de systèmes logiciels. Actuellement Développeur Logiciel chez Data Work Agency.
 </p>
@@ -67,9 +66,9 @@ Philosophie
 Contact
 
 <p align="center">
-  <a href="https://github.com/jujucram">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  </a>
+  <a href="https://t.me/Brandon_Cram">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
   <a href="mailto:brindicram@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
