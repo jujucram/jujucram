@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Brandon%20Moukam&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p><h2 align="center">Développeur Logiciel | Systèmes & Web</h2><p align="center">
-  Étudiant en informatique spécialisé en programmation bas niveau, Développement Web, performance et conception de systèmes logiciels. Actuellement Développeur Logiciel chez Data Work Agency.
+  Étudiant en informatique spécialisé en programmation bas niveau, Développement Web, performance et conception de systèmes logiciels. Actuellement Développeur Logiciel chez Data Work Agency🇨🇲.
 </p>
 
 Technologies
